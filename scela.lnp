@@ -1,0 +1,8 @@
+"app.obj",
+"HX711.obj",
+"key.obj",
+"lcd.obj",
+"main.obj",
+"timer0.obj",
+"uart.obj" 
+TO "scela" 
